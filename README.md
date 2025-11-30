@@ -8,19 +8,33 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 
 **Advanced Vehicle Information Retrieval System**
-<img width="1560" height="357" alt="Screenshot 2025-12-01 003326" src="https://github.com/user-attachments/assets/da736bd8-dead-40c6-b7eb-d83edf0a8f61" />
-<img width="1301" height="818" alt="Screenshot 2025-12-01 004428" src="https://github.com/user-attachments/assets/276db3d3-250f-4069-a6ac-39f114321c4b" />
+<img width="1560" height="357" alt="Screenshot 2025-12-01 003326" src="https://github.com/user-attachments/assets/0b8ae99c-108c-4930-b658-0252ca87efb2" />
+<img width="1301" height="818" alt="Screenshot 2025-12-01 004428" src="https://github.com/user-attachments/assets/a05bd653-f671-4fe8-8c81-aff66c6decf6" />
+
 
 </div>
 
 ## 📖 Overview
 
-Track-Rider is a sophisticated vehicle information lookup tool designed for educational and ethical purposes. It provides detailed vehicle information by querying official databases with a sleek hacker-themed interface.
+Track-Rider is a sophisticated vehicle information lookup tool designed for educational and ethical purposes. It provides detailed vehicle information by querying leaked databases.
+
+## 🔑 Licence Requirement
+
+### 🎫 **Licence Required**
+- **Licence System**: Proprietary licence key required for operation
+- **First Run**: Licence verification on initial launch
+- **Hardware Bound**: Licence is tied to your system hardware
+- **Auto-Validation**: Automatic validation on subsequent runs
+
+### 📞 **Get Your Licence**
+**Contact for Licence Key:**
+> **👨‍💻 @NeoCypher666** 
+> 
+> *DM for licence acquisition and technical support*
 
 ## ✨ Features
 
 - 🔐 **Secure Licence System** - Proprietary licence verification
-- 🎨 **Hacker UI** - Matrix-style animations and professional interface
 - 📊 **Multiple Export Formats** - JSON & CSV export capabilities
 - ⚡ **Smart Caching** - Redundant API calls with local caching
 - 🔍 **Comprehensive Data** - Detailed vehicle information retrieval
@@ -32,12 +46,13 @@ Track-Rider is a sophisticated vehicle information lookup tool designed for educ
 ### Prerequisites
 - Python 3.8 or higher
 - pip package manager
+- **Valid Licence Key** (Contact @NeoCypher666)
 
 ### Step-by-Step Setup
 
 1. **Clone or Download the Tool**
    ```bash
-   git clone https://github.com/AashishCyberH4CKS/Track-Rider
+   git clone https://github.com/AashishCyberH4CKS/Track-Rider.git
    cd track-rider
    Install Dependencies
 bash
@@ -139,6 +154,7 @@ For technical support and licence inquiries:
 
 
     Developer: AashishCyberH4CKS
+
 
 
 
