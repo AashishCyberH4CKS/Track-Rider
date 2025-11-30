@@ -37,10 +37,8 @@ Track-Rider is a sophisticated vehicle information lookup tool designed for educ
 
 1. **Clone or Download the Tool**
    ```bash
-   # If using git
-   git clone <repository-url>
+   git clone https://github.com/AashishCyberH4CKS/Track-Rider
    cd track-rider
-
    Install Dependencies
 bash
 
@@ -141,5 +139,6 @@ For technical support and licence inquiries:
 
 
     Developer: AashishCyberH4CKS
+
 
 
