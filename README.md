@@ -49,22 +49,22 @@ pip install -r requirements.txt
 Run the Tool
 bash
 
-python vehicle.py
+python trackrider.py
 
 🚀 Usage
 Basic Usage
 bash
 
-python vehicle.py
+python trackrider.py
 
 Direct RC Query
 bash
 
-python vehicle.py --rc=YOUR_VEHICLE_RC
+python trackrider.py --rc=YOUR_VEHICLE_RC
 
 First Run Setup
 
-    Launch the tool: python vehicle.py
+    Launch the tool: python trackrider.py
 
     Enter your licence key when prompted
 
@@ -76,7 +76,7 @@ First Run Setup
 text
 
 track-rider/
-├── vehicle.py          # Main application
+├── trackrider.py          # Main application
 ├── requirements.txt    # Python dependencies
 ├── README.md          # Documentation
 ├── results/           # Export directory (auto-created)
@@ -129,3 +129,4 @@ For technical support and licence inquiries:
 
 
     Developer: AashishCyberH4CKS
+
