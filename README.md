@@ -76,17 +76,29 @@ First Run Setup
 text
 
 track-rider/
+
 ├── trackrider.py          # Main application
+
 ├── requirements.txt    # Python dependencies
+
 ├── README.md          # Documentation
+
 ├── results/           # Export directory (auto-created)
+
 │   ├── {RC}.json     # JSON export
+
 │   └── {RC}.csv      # CSV export
+
 ├── cache/             # API cache (auto-created)
+
 │   └── {hash}.json   # Cached responses
+
 ├── logs/              # Application logs (auto-created)
+
 │   └── vehicle_tracker.log
+
 └── user.lic           # Licence file (auto-created)
+
 
 🔧 Configuration
 Licence System
@@ -129,4 +141,5 @@ For technical support and licence inquiries:
 
 
     Developer: AashishCyberH4CKS
+
 
