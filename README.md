@@ -27,7 +27,7 @@ Track-Rider is a sophisticated vehicle information lookup tool designed for educ
 - **Auto-Validation**: Automatic validation on subsequent runs
 
 ### 📞 **Get Your Licence**
-**Contact for Licence Key:**
+**Contact for Licence Key(Paid):**
 > **👨‍💻 @NeoCypher666** 
 > 
 > *DM for licence acquisition and technical support*
@@ -154,6 +154,7 @@ For technical support and licence inquiries:
 
 
     Developer: AashishCyberH4CKS
+
 
 
 
